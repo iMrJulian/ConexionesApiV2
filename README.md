@@ -15,6 +15,6 @@ pip install matplotlib
 ```
 Para correr el programa
 
-```ruby
+```python
 py main.py
 ```
